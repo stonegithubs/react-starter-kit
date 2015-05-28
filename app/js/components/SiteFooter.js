@@ -10,7 +10,8 @@ var SiteFooter = React.createClass({
     return (
       <footer className="ask-footer">
         <AMR.Container>
-          <p>© {year} AllMobilize, Inc. Licensed under MIT license. Developed with WebStorm.</p>
+          <p>© {year} AllMobilize, Inc. Licensed under MIT license.
+            Developed with WebStorm.</p>
         </AMR.Container>
       </footer>
     );
